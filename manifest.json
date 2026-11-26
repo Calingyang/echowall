@@ -6,24 +6,37 @@
   },
   "songs": [
     {
+      "id": "4a56e95d20",
+      "file": "4a56e95d20.dat",
+      "key": "a61751eea0bcae17dffcb394be9bb1d28fe993da964351adcfd09b45d2920da8",
+      "title": "对唱",
+      "artist": "杨 品",
+      "duration": 256,
+      "size": 4096417,
+      "added": "2026-11-26T07:14:26.797Z",
+      "hash": "187e2d691cb092a81eac75bfca8a0372176a0468c00a4650855547be5f04fca2"
+    },
+    {
       "id": "44425a64d7",
       "file": "44425a64d7.dat",
       "key": "5e1e462fec27b998ffac85c4f90c106d0475c6a02d13a376dcaeeaa59609b78f",
       "title": "爱人错过 伴奏",
-      "artist": "",
+      "artist": "佚名",
       "duration": 291.3,
       "size": 4661643,
-      "added": "2026-11-26T06:59:15.639Z"
+      "added": "2026-11-26T06:59:15.639Z",
+      "hash": "54ec83bc8fedf19682d27789a209b5dee8e7ed68562575554e5bf4700044aec4"
     },
     {
       "id": "bda60a4f96",
       "file": "bda60a4f96.dat",
       "key": "52f5cf0c68900e04466661df5e1a6f39fdf43c8754116b4cbe785a49bf5a7688",
       "title": "芦笙调3",
-      "artist": "",
+      "artist": "杨 品",
       "duration": 179.9,
       "size": 7200391,
-      "added": "2026-11-26T06:59:15.524Z"
+      "added": "2026-11-26T06:59:15.524Z",
+      "hash": "d005abd0d6920f902a5e5cd8b4a5a2f615defab62a8329d6c6a58426767f8770"
     },
     {
       "id": "e49c2246d5",
@@ -33,7 +46,8 @@
       "artist": "唯爱~品杨",
       "duration": 277.5,
       "size": 4441233,
-      "added": "2026-11-26T06:59:15.407Z"
+      "added": "2026-11-26T06:59:15.407Z",
+      "hash": "63baff0380a60216b022a8dc10b6bbc0310e3e49489c4e6eb123ffee00df9ed4"
     },
     {
       "id": "0495ee7daf",
@@ -43,7 +57,8 @@
       "artist": "杨 品",
       "duration": 378.7,
       "size": 6059989,
-      "added": "2026-11-26T06:59:15.299Z"
+      "added": "2026-11-26T06:59:15.299Z",
+      "hash": "c4f1bf52fd549d54067621bc98f6203e7f648eaa383367463a34fc5c7c2885d3"
     },
     {
       "id": "5482e6e34f",
@@ -53,7 +68,8 @@
       "artist": "盛哲",
       "duration": 262.2,
       "size": 10489729,
-      "added": "2026-11-26T06:59:15.180Z"
+      "added": "2026-11-26T06:59:15.180Z",
+      "hash": "dcd191f1082a516d47ed8eb51084fe1f29706eae1ef700492c2524c9fc416f38"
     },
     {
       "id": "ad8243be17",
@@ -63,7 +79,8 @@
       "artist": "唯爱~品杨",
       "duration": 183.5,
       "size": 2936580,
-      "added": "2026-11-26T06:59:08.271Z"
+      "added": "2026-11-26T06:59:08.271Z",
+      "hash": "50cc03598272b44e2d52da7b504c9e2f3c449a647863a4a0da2cf3c73457a0dd"
     }
   ]
 }
