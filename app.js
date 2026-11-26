@@ -395,6 +395,16 @@
 
   el.search.addEventListener("input", renderList);
 
+  let hoverTimer = 0;
+  el.list.addEventListener("mouseover", (e) => {
+    const row = e.target.closest(".row");
+    if (!row) return;
+    const song = state.songs[+row.dataset.i];
+    if (!song || state.blobs.has(song.id)) return;
+    clearTimeout(hoverTimer);
+    hoverTimer = setTimeout(() => fetchSong(song).catch(() => {}), 260);
+  });
+
   el.list.addEventListener("click", (e) => {
     const row = e.target.closest(".row");
     if (row) select(+row.dataset.i, true);
@@ -491,7 +501,7 @@
       const m = await (await fetch("manifest.json", { cache: "no-store" })).json();
       state.songs = (m.songs || []).slice();
       if (m.site) {
-        if (m.site.title) { el.siteTitle.textContent = m.site.title; document.title = m.site.title + " · 私享收听"; }
+        if (m.site.title) { el.siteTitle.textContent = m.site.title; document.title = m.site.title + " · 只播不存"; }
         if (m.site.subtitle) el.siteSub.textContent = m.site.subtitle;
         if (m.site.note) el.footNote.textContent = m.site.note;
       }
