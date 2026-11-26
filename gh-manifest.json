@@ -1,0 +1,20 @@
+{
+  "site": {
+    "title": "私享",
+    "subtitle": "只播不存 · 阅后即散",
+    "note": "音频以加密分片传输，浏览器内存内解密播放"
+  },
+  "songs": [
+    {
+      "id": "4a56e95d20",
+      "file": "4a56e95d20.dat",
+      "key": "a61751eea0bcae17dffcb394be9bb1d28fe993da964351adcfd09b45d2920da8",
+      "title": "对唱",
+      "artist": "杨 品",
+      "duration": 256,
+      "size": 4096417,
+      "added": "2026-11-26T07:14:26.797Z",
+      "hash": "187e2d691cb092a81eac75bfca8a0372176a0468c00a4650855547be5f04fca2"
+    }
+  ]
+}
