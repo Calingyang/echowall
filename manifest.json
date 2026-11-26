@@ -1,0 +1,69 @@
+{
+  "site": {
+    "title": "私享",
+    "subtitle": "只播不存 · 阅后即散",
+    "note": "音频以加密分片传输，浏览器内存内解密播放"
+  },
+  "songs": [
+    {
+      "id": "44425a64d7",
+      "file": "44425a64d7.dat",
+      "key": "5e1e462fec27b998ffac85c4f90c106d0475c6a02d13a376dcaeeaa59609b78f",
+      "title": "爱人错过 伴奏",
+      "artist": "",
+      "duration": 291.3,
+      "size": 4661643,
+      "added": "2026-11-26T06:59:15.639Z"
+    },
+    {
+      "id": "bda60a4f96",
+      "file": "bda60a4f96.dat",
+      "key": "52f5cf0c68900e04466661df5e1a6f39fdf43c8754116b4cbe785a49bf5a7688",
+      "title": "芦笙调3",
+      "artist": "",
+      "duration": 179.9,
+      "size": 7200391,
+      "added": "2026-11-26T06:59:15.524Z"
+    },
+    {
+      "id": "e49c2246d5",
+      "file": "e49c2246d5.dat",
+      "key": "e79209e9145c10c0aae451ab613f0dc6376bfd5057bee77c5556682e74fbd619",
+      "title": "打歌干音",
+      "artist": "唯爱~品杨",
+      "duration": 277.5,
+      "size": 4441233,
+      "added": "2026-11-26T06:59:15.407Z"
+    },
+    {
+      "id": "0495ee7daf",
+      "file": "0495ee7daf.dat",
+      "key": "214f9e0916b7af946ad2fd9ca3c94e9881ce85b04e4b1db0d2652b042de415c4",
+      "title": "高清芦笙调",
+      "artist": "杨 品",
+      "duration": 378.7,
+      "size": 6059989,
+      "added": "2026-11-26T06:59:15.299Z"
+    },
+    {
+      "id": "5482e6e34f",
+      "file": "5482e6e34f.dat",
+      "key": "5633364487d290f546c0c68a7c381ef2568ff4509f877820d35dbf10612bea64",
+      "title": "在你的身边",
+      "artist": "盛哲",
+      "duration": 262.2,
+      "size": 10489729,
+      "added": "2026-11-26T06:59:15.180Z"
+    },
+    {
+      "id": "ad8243be17",
+      "file": "ad8243be17.dat",
+      "key": "634f4a60b7bba82d6f1e83733d90d206ea0f6364576001ed4acd910822f22c24",
+      "title": "2021打歌音乐",
+      "artist": "唯爱~品杨",
+      "duration": 183.5,
+      "size": 2936580,
+      "added": "2026-11-26T06:59:08.271Z"
+    }
+  ]
+}
